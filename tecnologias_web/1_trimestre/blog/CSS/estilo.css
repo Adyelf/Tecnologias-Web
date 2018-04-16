@@ -1,0 +1,47 @@
+*{margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #DADADA;
+
+}
+.login{
+border: solid 3px #AFAFAF;
+width: 300px;
+margin: 10px auto;
+padding: 50px;
+text-align: center;
+background-color: #FFFFFF;
+}
+
+.campo{
+  padding: 6px 5px;
+  width: 250px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: solid 2px #AFAFAF;
+}
+
+.botaoentrar{
+  background-color:#3399ff;
+  border: solid 1px #003366;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 5px 13px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.botaoentrar:hover{
+background-color: #006877;
+
+}
+
+.login img{
+  margin-bottom: 20px;
+}
+
+.esqueceu{
+  padding: 10px;
+  color: blue;
+
+}
